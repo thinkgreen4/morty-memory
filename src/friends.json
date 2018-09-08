@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "tophat",
+    "image":
+      "https://vignette.wikia.nocookie.net/rickandmorty/images/3/33/Scroopy.jpg/revision/latest?cb=20140424195723"
+  
+  },
+  {
+    "id": 2,
+    "name": "MeSeek",
+    "image":
+      "https://qph.fs.quoracdn.net/main-qimg-d4ae137e10e7145a214bef04db74312c"
+   
+  },
+  {
+    "id": 3,
+    "name": "greenDude",
+    "image":
+      "https://vignette.wikia.nocookie.net/rickandmorty/images/a/a5/GFPresident.png/revision/latest?cb=20170402054340"
+    
+  },
+  {
+    "id": 4,
+    "name": "Squanchy",
+    "image":
+      "https://f4.bcbits.com/img/0010067948_20.jpg"
+   
+  },
+  {
+    "id": 5,
+    "name": "evilmorty",
+    "image":
+      "https://res.cloudinary.com/teepublic/image/private/s--srtTuy6G--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1505353410/production/designs/1893434_1.jpg"
+    
+  },
+  {
+    "id": 6,
+    "name": "evilmorty2",
+    "image":
+      "https://orig00.deviantart.net/af72/f/2017/255/5/a/evil_morty_eats_pickle_rick_by_klickwitch-dbn83ku.png"
+    
+  },
+  {
+    "id": 7,
+    "name": "beth",
+    "image":
+      "https://vignette.wikia.nocookie.net/rickandmorty/images/5/58/Beth_Smith.png/revision/latest?cb=20151204220729"
+    
+  },
+  {
+    "id": 8,
+    "name": "gary",
+    "image":
+      "https://misanthropester.files.wordpress.com/2015/10/tumblr_inline_n0op8nq0sb1qmqtm3.jpg"
+   
+  },
+  {
+    "id": 9,
+    "name": "littleRick",
+    "image":
+      "https://vignette.wikia.nocookie.net/rickandmorty/images/2/23/TinyRick.png/revision/latest?cb=20150914183331"
+    
+  },
+  {
+    "id": 10,
+    "name": "bigRick",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsWec0H2A_O80olbmBsLMS6_023QFCffp1iou_2Li9-i2XfiYXg"
+    
+  },
+  {
+    "id": 11,
+    "name": "pickleRick",
+    "image":
+      "https://www.stickerfactory.co.nz/wp-content/uploads/2017/10/pickle-rick.jpg"
+    
+  },
+  {
+    "id": 12,
+    "name": "morty",
+    "image":
+      "https://vignette.wikia.nocookie.net/rickandmorty/images/1/17/Mechanical_Morty.png/revision/latest?cb=20170731155031"
+   
+  }
+  
+  
+
+
+]
